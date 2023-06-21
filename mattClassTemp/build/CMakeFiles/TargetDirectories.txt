@@ -1,4 +1,0 @@
-/home/utshavuks/Documents/project1/rebase/utshavp/mattClassTemp/build/CMakeFiles/temp.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/mattClassTemp/build/CMakeFiles/libb.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/mattClassTemp/build/CMakeFiles/edit_cache.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/mattClassTemp/build/CMakeFiles/rebuild_cache.dir

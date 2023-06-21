@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcann.a CMakeFiles/cann.dir/matrixClass.cpp.o
-/usr/bin/ranlib libcann.a

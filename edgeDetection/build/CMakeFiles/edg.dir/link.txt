@@ -1,2 +1,0 @@
-/usr/bin/ar qc libedg.a CMakeFiles/edg.dir/matrixClass.cpp.o
-/usr/bin/ranlib libedg.a

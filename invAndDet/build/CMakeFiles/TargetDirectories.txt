@@ -1,4 +1,0 @@
-/home/utshavuks/Documents/project1/rebase/utshavp/invAndDet/build/CMakeFiles/detInv.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/invAndDet/build/CMakeFiles/libb.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/invAndDet/build/CMakeFiles/edit_cache.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/invAndDet/build/CMakeFiles/rebuild_cache.dir

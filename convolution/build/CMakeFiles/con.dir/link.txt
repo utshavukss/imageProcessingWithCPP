@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcon.a CMakeFiles/con.dir/matrixClass.cpp.o
-/usr/bin/ranlib libcon.a

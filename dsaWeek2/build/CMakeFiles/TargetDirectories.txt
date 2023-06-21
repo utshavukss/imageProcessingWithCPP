@@ -1,4 +1,0 @@
-/home/utshavuks/Documents/project1/rebase/utshavp/dsaWeek2/build/CMakeFiles/dsa2.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/dsaWeek2/build/CMakeFiles/sol.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/dsaWeek2/build/CMakeFiles/edit_cache.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/dsaWeek2/build/CMakeFiles/rebuild_cache.dir

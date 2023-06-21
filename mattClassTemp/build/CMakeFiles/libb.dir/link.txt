@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibb.a CMakeFiles/libb.dir/matrixClass.cpp.o
-/usr/bin/ranlib liblibb.a

@@ -1,4 +1,0 @@
-/home/utshavuks/Documents/project1/rebase/utshavp/convolution/build/CMakeFiles/conv.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/convolution/build/CMakeFiles/con.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/convolution/build/CMakeFiles/edit_cache.dir
-/home/utshavuks/Documents/project1/rebase/utshavp/convolution/build/CMakeFiles/rebuild_cache.dir
