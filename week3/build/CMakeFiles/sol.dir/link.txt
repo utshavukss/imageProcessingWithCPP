@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsol.a CMakeFiles/sol.dir/solutions.cpp.o
+/usr/bin/ranlib libsol.a

@@ -1,0 +1,4 @@
+/home/utshavuks/Documents/project1/rebase/utshavp/edgeDetection/build/CMakeFiles/edge.dir
+/home/utshavuks/Documents/project1/rebase/utshavp/edgeDetection/build/CMakeFiles/edg.dir
+/home/utshavuks/Documents/project1/rebase/utshavp/edgeDetection/build/CMakeFiles/edit_cache.dir
+/home/utshavuks/Documents/project1/rebase/utshavp/edgeDetection/build/CMakeFiles/rebuild_cache.dir

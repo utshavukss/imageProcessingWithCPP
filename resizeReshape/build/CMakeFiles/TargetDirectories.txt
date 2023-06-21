@@ -1,0 +1,4 @@
+/home/utshavuks/Documents/project1/utshavp/resizeReshape/build/CMakeFiles/res.dir
+/home/utshavuks/Documents/project1/utshavp/resizeReshape/build/CMakeFiles/libb.dir
+/home/utshavuks/Documents/project1/utshavp/resizeReshape/build/CMakeFiles/edit_cache.dir
+/home/utshavuks/Documents/project1/utshavp/resizeReshape/build/CMakeFiles/rebuild_cache.dir

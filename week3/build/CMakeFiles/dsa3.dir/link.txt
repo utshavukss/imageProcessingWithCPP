@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dsa3.dir/main.cpp.o -o dsa3  libsol.a 

@@ -1,0 +1,4 @@
+/home/utshavuks/Documents/project1/rebase/utshavp/canEdge/build/CMakeFiles/canny.dir
+/home/utshavuks/Documents/project1/rebase/utshavp/canEdge/build/CMakeFiles/cann.dir
+/home/utshavuks/Documents/project1/rebase/utshavp/canEdge/build/CMakeFiles/edit_cache.dir
+/home/utshavuks/Documents/project1/rebase/utshavp/canEdge/build/CMakeFiles/rebuild_cache.dir
